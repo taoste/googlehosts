@@ -46,40 +46,6 @@ add address=52.219.4.104 name=s3-ap-northeast-1.amazonaws.com
 add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
-# Amazon Japan Start
-add address=52.119.164.121 name=amazon.co.jp
-add address=23.13.186.208 name=www.amazon.co.jp
-add address=54.239.96.187 name=aftlite-portal-nrt.amazon.co.jp
-add address=52.94.210.248 name=alexa.amazon.co.jp
-add address=54.240.251.149 name=api.amazon.co.jp
-add address=52.119.168.241 name=arap.amazon.co.jp
-add address=54.240.248.126 name=www.artistcentral.amazon.co.jp
-add address=54.240.250.160 name=astore.amazon.co.jp
-add address=52.94.211.66 name=brandregistry.amazon.co.jp
-add address=54.240.248.142 name=catalog-sc.amazon.co.jp
-add address=54.240.248.108 name=cde-ta-g7g-sha-proxy.amazon.co.jp
-add address=52.94.210.103 name=completion.amazon.co.jp
-add address=205.251.235.239 name=copilot.amazon.co.jp
-add address=54.240.248.163 name=dropship.amazon.co.jp
-add address=54.240.254.58 name=cs-ext.amazon.co.jp
-add address=54.240.252.151 name=endeavour.amazon.co.jp
-add address=35.166.79.161 name=fls-fe.amazon.co.jp
-add address=54.240.250.189 name=kdp.amazon.co.jp
-add address=176.32.100.154 name=kindle-images.amazon.co.jp
-add address=54.240.250.180 name=kindlepreviewservice.amazon.co.jp
-add address=54.240.250.59 name=kuato.amazon.co.jp
-add address=54.240.254.122 name=logistics.amazon.co.jp
-add address=54.240.248.64 name=mt.amazon.co.jp
-add address=54.240.251.157 name=music.amazon.co.jp
-add address=52.94.212.221 name=music-xray-service.amazon.co.jp
-add address=52.119.164.28 name=widgets.amazon.co.jp
-add address=54.240.250.177 name=opf-sellercentral.amazon.co.jp
-add address=54.240.251.156 name=payments.amazon.co.jp
-add address=54.240.250.198 name=prime.amazon.co.jp
-add address=54.240.248.131 name=read.amazon.co.jp
-add address=52.94.210.139 name=shm.amazon.co.jp
-# Amazon Japan End
-
 # Android Start
 add address=172.217.30.157 name=a.android.com
 add address=172.217.30.157 name=connectivitycheck.android.com
@@ -97,10 +63,6 @@ add address=172.217.8.249 name=developer.android.com
 add address=104.20.82.194 name=apkpure.com
 add address=104.20.82.194 name=m.apkpure.com
 # Apkpure End
-
-# Apkmirror Start
-add address=104.19.133.58 name=www.apkmirror.com
-# Apkmirror End
 
 # Appspot Start
 # Pending fix
@@ -162,12 +124,7 @@ add address=172.217.14.116 name=go-tour-zh.appspot.com
 # Archive Start
 add address=207.241.224.4 name=archive.org
 add address=207.241.224.4 name=www.archive.org
-add address=207.241.225.95 name=analytics.archive.org
-add address=207.241.233.214 name=web-beta.archive.org
-add address=207.241.233.214 name=wwwb-sentry.us.archive.org
-add address=207.241.233.214 name=web.archive.org
 add address=207.241.224.6 name=mail.archive.org
-add address=207.241.225.247 name=books-general.archive.org
 # Archive End
 
 # ARTE Start
@@ -188,33 +145,6 @@ add address=52.59.33.68 name=search.avira.com
 add address=104.20.7.63 name=bandwagonhost.com
 # Bandwagonhost End
 
-# Bbc Start
-add address=151.101.8.81 name=www.bbc.com
-add address=212.58.244.115 name=fig.bbc.co.uk
-add address=212.58.244.69 name=www.bbc.co.uk
-add address=23.59.2.139 name=static.bbci.co.uk
-add address=23.199.11.116 name=static.bbc.co.uk
-add address=104.76.83.32 name=nav.files.bbci.co.uk
-add address=23.42.122.193 name=ichef.bbci.co.uk
-add address=23.73.186.251 name=m.files.bbci.co.uk
-add address=125.56.212.236 name=feeds.bbci.co.uk
-add address=23.13.157.61 name=mybbc.files.bbci.co.uk
-add address=23.66.206.133 name=polling.bbc.co.uk
-add address=104.72.213.225 name=search.files.bbci.co.uk
-add address=184.27.16.168 name=a.files.bbci.co.uk
-add address=95.101.15.42 name=gel.files.bbci.co.uk
-add address=104.103.150.125 name=emp.bbc.com
-add address=23.53.213.148 name=news.bbcimg.co.uk
-add address=23.201.173.230 name=mybbc-analytics.files.bbci.co.uk
-add address=212.58.244.114 name=ssl.bbc.co.uk
-add address=13.33.213.226 name=push.api.bbci.co.uk
-add address=52.31.189.25 name=search-suggest.api.bbci.co.uk
-add address=34.245.252.9 name=ess.api.bbci.co.uk
-add address=212.58.249.134 name=session.bbc.com
-add address=212.58.244.92 name=account.bbc.com
-add address=212.58.244.78 name=open.live.bbc.co.uk
-# Bbc End
-
 # Behance Start
 add address=151.101.193.197 name=www.behance.net
 add address=216.146.46.10 name=behance.com
@@ -233,21 +163,7 @@ add address=107.152.24.198 name=app.box.com
 add address=107.152.24.197 name=m.box.com
 # Box End
 
-# Bussiness Insider Start
-add address=151.101.1.171 name=static2.businessinsider.com
-add address=151.101.1.171 name=static5.businessinsider.com
-add address=151.101.193.171 name=www.businessinsider.com
-add address=151.101.229.171 name=amp.businessinsider.com
-add address=151.101.229.171 name=geoip.businessinsider.com
-add address=151.101.229.171 name=static6.businessinsider.com
-add address=151.101.73.171 name=static1.businessinsider.com
-add address=151.101.73.171 name=static3.businessinsider.com
-add address=151.101.73.171 name=static4.businessinsider.com
-add address=151.101.88.64 name=analytics.businessinsider.com
-# Bussiness Insider End
-
 # Buzzfeed Start
-add address=151.101.2.114 name=img.buzzfeed.com
 # Buzzfeed End
 
 # CD Universe Start
@@ -258,13 +174,6 @@ add address=110.232.178.118 name=c9.cduniverse.ws
 add address=110.232.178.118 name=www.cduniverse.com
 add address=72.248.115.70 name=cduniverse.ws
 # CD Universe End
-
-# Change.org Start
-add address=104.16.5.13 name=www.change.org
-add address=104.16.5.13 name=assets.change.org
-add address=104.16.4.13 name=change.org
-add address=104.16.4.13 name=assets-fe.change.org
-# Change.org End
 
 # Cloudfront Start
 add address=13.33.25.77 name=d3njjcbhbojbot.cloudfront.net
@@ -278,12 +187,6 @@ add address=13.33.231.37 name=clyp.it
 add address=13.33.231.37 name=soundwave.clyp.it
 add address=13.33.231.37 name=static.clyp.it
 # Clyp End
-
-# CNA Start
-add address=210.242.210.65 name=img5.cna.com.tw
-add address=211.72.255.204 name=www.cna.com.tw
-add address=72.21.81.200 name=img4.cna.com.tw
-# CNA End
 
 # Culturalspot Start
 # Pending fix
@@ -1190,59 +1093,6 @@ add address=104.25.27.31 name=u2.dmhy.org
 add address=104.25.27.31 name=www.dmhy.org
 # DMHY End
 
-# Dropbox Start
-# Pending fix
-add address=162.125.248.2 name=db.tt
-add address=162.125.248.1 name=www.dropbox.com
-add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
-add address=162.125.5.7 name=api.dropbox.com
-add address=162.125.5.7 name=api.dualstack.dropbox-dns.com
-add address=162.125.5.7 name=api.dropboxapi.com
-add address=162.125.33.7 name=api-d.dropbox.com
-add address=162.125.34.7 name=api.v.dropbox.com
-add address=162.125.34.7 name=api-notify.dropbox.com
-add address=99.84.239.58 name=aem.dropbox.com
-add address=162.125.82.8 name=api-content.dropbox.com
-add address=162.125.82.5 name=api-content-photos.dropbox.com
-add address=13.35.8.95 name=blogs.dropbox.com
-add address=162.125.17.132 name=block.dropbox.com
-add address=162.125.17.5 name=block.v.dropbox.com
-add address=162.125.18.133 name=bolt.dropbox.com
-add address=162.125.65.3 name=client.dropbox.com
-add address=162.125.65.3 name=client-cf.dropbox.com
-add address=162.125.32.137 name=client.v.dropbox.com
-add address=162.125.80.3 name=client-lb.dropbox.com
-add address=162.125.80.3 name=client-web.dropbox.com
-add address=162.125.32.135 name=d.dropbox.com
-add address=162.125.32.135 name=d.v.dropbox.com
-add address=162.125.83.6 name=dl.dropbox.com
-add address=162.125.83.6 name=dl-web.dropbox.com
-add address=162.125.83.6 name=dl-doc.dropbox.com
-add address=54.236.121.227 name=dl-debug.dropbox.com
-add address=13.35.8.71 name=forums.dropbox.com
-add address=13.35.99.72 name=linux.dropbox.com
-add address=162.125.80.2 name=m.dropbox.com
-add address=54.230.173.117 name=marketing.dropbox.com
-add address=162.125.66.5 name=photos.dropbox.com
-add address=162.125.83.5 name=photos-1.dropbox.com
-add address=162.125.83.5 name=photos-2.dropbox.com
-add address=162.125.83.5 name=photos-3.dropbox.com
-add address=162.125.83.5 name=photos-4.dropbox.com
-add address=162.125.83.5 name=photos-5.dropbox.com
-add address=162.125.83.5 name=photos-6.dropbox.com
-add address=162.125.83.5 name=photos-thumb.dropbox.com
-add address=162.125.18.129 name=photos-thumb.x.dropbox.com
-add address=54.153.81.237 name=paper.dropbox.com
-add address=54.230.173.90 name=status.dropbox.com
-add address=54.230.173.29 name=snapengage.dropbox.com
-add address=162.125.7.6 name=dl.dropboxusercontent.com
-add address=162.125.33.9 name=www.dropboxstatic.com
-add address=104.16.100.29 name=cfl.dropboxstatic.com
-add address=54.230.175.68 name=cf.dropboxstatic.com
-add address=162.125.33.9 name=dbxlocal.dropboxstatic.com
-add address=162.125.82.2 name=log.getdropbox.com
-# Dropbox End
-
 # DuckDuckGo Start
 add address=13.210.167.213 name=duckduckgo.com
 add address=13.210.167.213 name=www.duckduckgo.com
@@ -1305,128 +1155,6 @@ add address=104.20.170.49 name=computer.discuss.com.hk
 # Dynu Start
 add address=207.38.70.29 name=www.dynu.com
 # Dynu End
-
-# Euronews Start
-add address=8.252.15.252 name=static.euronews.com
-# Euronews End
-
-# Facebook Start
-add address=157.240.7.35 name=www.facebook.com
-add address=157.240.7.35 name=fb.me
-add address=157.240.7.35 name=facebook.com
-add address=157.240.7.35 name=api.facebook.com
-add address=157.240.7.35 name=apps.facebook.com
-add address=157.240.7.35 name=attachments.facebook.com
-add address=157.240.7.35 name=business.facebook.com
-add address=157.240.7.35 name=bigzipfiles.facebook.com
-add address=157.240.7.35 name=code.facebook.com
-add address=157.240.7.35 name=check4.facebook.com
-add address=157.240.7.35 name=check6.facebook.com
-add address=157.240.7.35 name=connect.facebook.com
-add address=157.240.7.35 name=d.facebook.com
-add address=157.240.7.35 name=developers.facebook.com
-add address=157.240.7.35 name=graph.facebook.com
-add address=157.240.7.35 name=l.facebook.com
-add address=157.240.7.35 name=login.facebook.com
-add address=157.240.7.35 name=m.facebook.com
-add address=157.240.7.35 name=mtouch.facebook.com
-add address=157.240.7.35 name=mqtt.facebook.com
-add address=157.240.7.35 name=mqtt-mini.facebook.com
-add address=157.240.7.35 name=orcart.facebook.com
-add address=157.240.7.35 name=pixel.facebook.com
-add address=157.240.7.35 name=scontent.facebook.com
-add address=157.240.7.35 name=ssl.facebook.com
-add address=157.240.7.35 name=star.facebook.com
-add address=157.240.7.35 name=secure.facebook.com
-add address=157.240.7.35 name=staticxx.facebook.com
-add address=157.240.7.35 name=touch.facebook.com
-add address=157.240.7.35 name=upload.facebook.com
-add address=157.240.7.35 name=vupload.facebook.com
-add address=157.240.7.35 name=vupload2.facebook.com
-add address=157.240.7.35 name=api-read.facebook.com
-add address=157.240.7.35 name=b-api.facebook.com
-add address=157.240.7.35 name=b-graph.facebook.com
-add address=157.240.7.35 name=s-static.facebook.com
-add address=157.240.7.35 name=zh-cn.facebook.com
-add address=157.240.7.35 name=zh-tw.facebook.com
-add address=157.240.7.35 name=edge-chat.facebook.com
-add address=157.240.7.35 name=0-edge-chat.facebook.com
-add address=157.240.7.35 name=1-edge-chat.facebook.com
-add address=157.240.7.35 name=2-edge-chat.facebook.com
-add address=157.240.7.35 name=3-edge-chat.facebook.com
-add address=157.240.7.35 name=4-edge-chat.facebook.com
-add address=157.240.7.35 name=5-edge-chat.facebook.com
-add address=157.240.7.35 name=6-edge-chat.facebook.com
-add address=157.240.7.35 name=channel-ecmp-05-ash3.facebook.com
-add address=157.240.7.35 name=channel-staging-ecmp-05-ash3.facebook.com
-add address=157.240.7.35 name=channel-testing-ecmp-05-ash3.facebook.com
-add address=157.240.7.35 name=beta-chat-01-05-ash3.facebook.com
-add address=157.240.7.35 name=s-static.ak.facebook.com
-add address=157.240.7.35 name=star.c10r.facebook.com
-add address=157.240.7.35 name=fbcdn.net
-add address=157.240.7.35 name=connect.facebook.net
-add address=157.240.7.35 name=ent-a.xx.fbcdn.net
-add address=157.240.7.35 name=ent-b.xx.fbcdn.net
-add address=157.240.7.35 name=ent-c.xx.fbcdn.net
-add address=157.240.7.35 name=ent-d.xx.fbcdn.net
-add address=157.240.7.35 name=ent-e.xx.fbcdn.net
-add address=157.240.7.35 name=scontent.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-a.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-b.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-c.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-d.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-e.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-mxp.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-a-lax.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-a-sin.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-b-lax.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-b-sin.xx.fbcdn.net
-add address=157.240.7.35 name=static.thefacebook.com
-add address=157.240.7.35 name=attachment.fbsbx.com
-add address=157.240.7.35 name=messenger.com
-add address=157.240.7.35 name=www.messenger.com
-add address=157.240.7.35 name=0-edge-chat.messenger.com
-add address=157.240.7.35 name=1-edge-chat.messenger.com
-add address=157.240.7.35 name=2-edge-chat.messenger.com
-add address=157.240.7.35 name=3-edge-chat.messenger.com
-add address=157.240.7.35 name=4-edge-chat.messenger.com
-add address=157.240.7.35 name=5-edge-chat.messenger.com
-add address=157.240.7.35 name=6-edge-chat.messenger.com
-add address=31.13.95.33 name=snaptu-z.facebook.com
-add address=31.13.95.33 name=snaptu-p1.facebook.com
-add address=31.13.95.33 name=snaptu-p2.facebook.com
-add address=31.13.95.5 name=edge-mqtt.facebook.com
-add address=192.0.78.13 name=instantarticles.fb.com
-add address=192.0.78.13 name=live.fb.com
-add address=192.0.78.13 name=managingbias.fb.com
-add address=192.0.78.13 name=nonprofits.fb.com
-add address=192.0.78.13 name=rightsmanager.fb.com
-add address=192.0.78.13 name=techprep.fb.com
-add address=192.0.78.13 name=work.fb.com
-add address=31.13.91.15 name=static.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-1.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-2.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-3.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-4.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-hkg3-1.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-hkg3-2.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-hkg3-3.xx.fbcdn.net
-add address=31.13.91.15 name=z-1-scontent.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-1.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-2.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-3.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-4.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-1.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-2.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-3.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-4.xx.fbcdn.net
-add address=31.13.91.15 name=video-hkg3-1.xx.fbcdn.net
-add address=31.13.91.15 name=video-sit4-1.xx.fbcdn.net
-add address=31.13.91.15 name=external.xx.fbcdn.net
-add address=192.0.66.2 name=messengerplatform.fb.com
-add address=192.0.66.2 name=threatexchange.fb.com
-add address=157.240.11.18 name=video.xx.fbcdn.net
-# Facebook End
 
 # Fastly Start
 add address=151.101.1.194 name=codeproject.global.ssl.fastly.net
@@ -3798,18 +3526,6 @@ add address=203.86.162.153 name=search.hkjc.com
 add address=101.78.207.158 name=football.hkjc.com
 # Hkjc End
 
-# imgur Start
-add address=151.101.40.193 name=imgur.com
-add address=151.101.40.193 name=m.imgur.com
-add address=151.101.40.193 name=api.imgur.com
-add address=151.101.40.193 name=www.imgur.com
-add address=151.101.40.193 name=store.imgur.com
-add address=151.101.40.193 name=s.imgur.com
-add address=151.101.40.193 name=p.imgur.com
-add address=151.101.40.193 name=i.imgur.com
-add address=101.78.207.158 name=i.stack.imgur.com
-# imgur End
-
 # Ingress Start
 add address=52.9.109.157 name=appload.ingest.crittercism.com
 add address=54.241.32.12 name=api.crittercism.com
@@ -3818,159 +3534,6 @@ add address=169.44.145.204 name=bootstrap.upsight-api.com
 add address=169.44.145.204 name=single.upsight-api.com
 add address=169.44.145.204 name=batch.upsight-api.com
 # Ingress End
-
-# Instagram Start
-add address=31.13.82.172 name=instagram.com
-add address=31.13.82.174 name=www.instagram.com
-add address=157.240.15.174 name=badges.instagram.com
-add address=157.240.15.174 name=graph.instagram.com
-add address=157.240.15.63 name=logger.instagram.com
-add address=157.240.15.63 name=maps.instagram.com
-add address=52.45.94.103 name=i.instagram.com
-add address=52.45.94.103 name=api.instagram.com
-add address=31.13.76.172 name=help.instagram.com
-add address=31.13.76.172 name=platform.instagram.com
-add address=66.6.32.22 name=blog.instagram.com
-add address=23.55.56.140 name=images.ak.instagram.com
-add address=23.32.241.16 name=static.ak.instagram.com
-add address=31.13.87.52 name=scontent.cdninstagram.com
-add address=157.240.15.174 name=scontent-a.cdninstagram.com
-add address=157.240.15.174 name=scontent-b.cdninstagram.com
-add address=31.13.91.52 name=scontent-a-ams.cdninstagram.com
-add address=31.13.91.52 name=scontent-b-ams.cdninstagram.com
-add address=31.13.91.52 name=scontent-ams3-1.cdninstagram.com
-add address=31.13.91.172 name=scontent-a-amt.cdninstagram.com
-add address=31.13.91.172 name=scontent-b-amt.cdninstagram.com
-add address=31.13.91.172 name=scontent-amt2-1.cdninstagram.com
-add address=31.13.72.172 name=scontent-a-arn.cdninstagram.com
-add address=31.13.72.172 name=scontent-b-arn.cdninstagram.com
-add address=31.13.72.172 name=scontent-arn2-1.cdninstagram.com
-add address=31.13.65.172 name=scontent-a-atl.cdninstagram.com
-add address=31.13.65.172 name=scontent-b-atl.cdninstagram.com
-add address=31.13.65.172 name=scontent-atl3-1.cdninstagram.com
-add address=157.240.6.52 name=scontent-a-bog.cdninstagram.com
-add address=157.240.6.52 name=scontent-b-bog.cdninstagram.com
-add address=157.240.6.52 name=scontent-bog1-1.cdninstagram.com
-add address=179.60.195.172 name=scontent-a-bru.cdninstagram.com
-add address=179.60.195.172 name=scontent-b-bru.cdninstagram.com
-add address=179.60.195.172 name=scontent-bru2-1.cdninstagram.com
-add address=179.60.192.52 name=scontent-a-cdg.cdninstagram.com
-add address=179.60.192.52 name=scontent-b-cdg.cdninstagram.com
-add address=179.60.192.52 name=scontent-cdg2-1.cdninstagram.com
-add address=31.13.94.51 name=scontent-a-eze.cdninstagram.com
-add address=31.13.94.51 name=scontent-b-eze.cdninstagram.com
-add address=31.13.94.51 name=scontent-eze1-1.cdninstagram.com
-add address=31.13.92.51 name=scontent-a-frt.cdninstagram.com
-add address=31.13.92.51 name=scontent-b-frt.cdninstagram.com
-add address=31.13.92.51 name=scontent-frt3-1.cdninstagram.com
-add address=185.60.216.174 name=scontent-a-frx.cdninstagram.com
-add address=185.60.216.174 name=scontent-b-frx.cdninstagram.com
-add address=185.60.216.174 name=scontent-frx5-1.cdninstagram.com
-add address=157.240.12.52 name=scontent-a-gru.cdninstagram.com
-add address=157.240.12.52 name=scontent-b-gru.cdninstagram.com
-add address=31.13.95.172 name=scontent-a-hkg.cdninstagram.com
-add address=31.13.95.172 name=scontent-b-hkg.cdninstagram.com
-add address=31.13.69.172 name=scontent-a-iad.cdninstagram.com
-add address=31.13.69.172 name=scontent-b-iad.cdninstagram.com
-add address=31.13.69.172 name=scontent-iad.cdninstagram.com
-add address=31.13.69.172 name=scontent-iad3-1.cdninstagram.com
-add address=31.13.68.174 name=scontent-a-icn.cdninstagram.com
-add address=31.13.68.174 name=scontent-b-icn.cdninstagram.com
-add address=31.13.68.174 name=scontent-icn1-1.cdninstagram.com
-add address=157.240.10.52 name=scontent-a-kut.cdninstagram.com
-add address=157.240.10.52 name=scontent-b-kut.cdninstagram.com
-add address=31.13.70.172 name=scontent-a-lax.cdninstagram.com
-add address=31.13.70.172 name=scontent-b-lax.cdninstagram.com
-add address=31.13.70.172 name=scontent-lax.cdninstagram.com
-add address=31.13.71.174 name=scontent-a-lga.cdninstagram.com
-add address=31.13.71.174 name=scontent-b-lga.cdninstagram.com
-add address=31.13.71.174 name=scontent-lga.cdninstagram.com
-add address=31.13.71.174 name=scontent-lga3-1.cdninstagram.com
-add address=31.13.90.174 name=scontent-a-lhr.cdninstagram.com
-add address=31.13.90.174 name=scontent-b-lhr.cdninstagram.com
-add address=31.13.90.174 name=scontent-lhr3-1.cdninstagram.com
-add address=157.240.1.172 name=scontent-a-lht.cdninstagram.com
-add address=157.240.1.172 name=scontent-b-lht.cdninstagram.com
-add address=157.240.1.172 name=scontent-lht6-1.cdninstagram.com
-add address=31.13.83.52 name=scontent-a-mad.cdninstagram.com
-add address=31.13.83.52 name=scontent-b-mad.cdninstagram.com
-add address=31.13.83.52 name=scontent-mad1-1.cdninstagram.com
-add address=31.13.75.174 name=scontent-a-mrs.cdninstagram.com
-add address=31.13.75.174 name=scontent-b-mrs.cdninstagram.com
-add address=31.13.75.174 name=scontent-mrs1-1.cdninstagram.com
-add address=31.13.86.52 name=scontent-a-mxp.cdninstagram.com
-add address=31.13.86.52 name=scontent-b-mxp.cdninstagram.com
-add address=31.13.86.52 name=scontent-mxp1-1.cdninstagram.com
-add address=31.13.82.174 name=scontent-a-nrt.cdninstagram.com
-add address=31.13.82.174 name=scontent-b-nrt.cdninstagram.com
-add address=31.13.82.174 name=scontent-nrt1-1.cdninstagram.com
-add address=157.240.18.63 name=scontent-a-ort.cdninstagram.com
-add address=157.240.18.63 name=scontent-b-ort.cdninstagram.com
-add address=185.60.218.52 name=scontent-a-otp.cdninstagram.com
-add address=185.60.218.52 name=scontent-b-otp.cdninstagram.com
-add address=185.60.218.52 name=scontent-otp1-1.cdninstagram.com
-add address=179.60.193.63 name=scontent-a-scl.cdninstagram.com
-add address=179.60.193.63 name=scontent-b-scl.cdninstagram.com
-add address=179.60.193.63 name=scontent-scl1-1.cdninstagram.com
-add address=31.13.76.174 name=scontent-a-sea.cdninstagram.com
-add address=31.13.76.174 name=scontent-b-sea.cdninstagram.com
-add address=31.13.76.174 name=scontent-sea1-1.cdninstagram.com
-add address=157.240.7.172 name=scontent-a-sin.cdninstagram.com
-add address=157.240.7.172 name=scontent-b-sin.cdninstagram.com
-add address=31.13.78.172 name=scontent-a-sit.cdninstagram.com
-add address=31.13.78.172 name=scontent-b-sit.cdninstagram.com
-add address=31.13.78.172 name=scontent-sit4-1.cdninstagram.com
-add address=157.240.22.63 name=scontent-a-sjc.cdninstagram.com
-add address=157.240.22.63 name=scontent-b-sjc.cdninstagram.com
-add address=157.240.22.63 name=scontent-sjc3-1.cdninstagram.com
-add address=157.240.9.52 name=scontent-a-sof.cdninstagram.com
-add address=157.240.9.52 name=scontent-b-sof.cdninstagram.com
-add address=157.240.9.52 name=scontent-sof1-1.cdninstagram.com
-add address=157.240.8.174 name=scontent-a-syd.cdninstagram.com
-add address=157.240.8.174 name=scontent-b-syd.cdninstagram.com
-add address=157.240.8.174 name=scontent-syd2-1.cdninstagram.com
-add address=31.13.87.52 name=scontent-a-tpe.cdninstagram.com
-add address=31.13.87.52 name=scontent-b-tpe.cdninstagram.com
-add address=31.13.87.52 name=scontent-tpe1-1.cdninstagram.com
-add address=31.13.84.52 name=scontent-a-vie.cdninstagram.com
-add address=31.13.84.52 name=scontent-b-vie.cdninstagram.com
-add address=31.13.84.52 name=scontent-vie1-1.cdninstagram.com
-add address=31.13.81.52 name=scontent-a-waw.cdninstagram.com
-add address=31.13.81.52 name=scontent-b-waw.cdninstagram.com
-add address=31.13.81.52 name=scontent-waw1-1.cdninstagram.com
-add address=31.13.80.52 name=scontent-a-yyz.cdninstagram.com
-add address=31.13.80.52 name=scontent-b-yyz.cdninstagram.com
-add address=31.13.80.52 name=scontent-yyz1-1.cdninstagram.com
-add address=31.13.85.172 name=scontent-gru2-1.cdninstagram.com
-add address=157.240.12.172 name=scontent-gru2-2.cdninstagram.com
-add address=31.13.95.174 name=scontent-hkg3-1.cdninstagram.com
-add address=157.240.15.172 name=scontent-hkg3-2.cdninstagram.com
-add address=157.240.10.172 name=scontent-kut2-1.cdninstagram.com
-add address=179.60.194.63 name=scontent-kut2-2.cdninstagram.com
-add address=31.13.70.174 name=scontent-lax3-1.cdninstagram.com
-add address=157.240.11.174 name=scontent-lax3-2.cdninstagram.com
-add address=157.240.2.172 name=scontent-ort2-1.cdninstagram.com
-add address=157.240.18.172 name=scontent-ort2-2.cdninstagram.com
-add address=157.240.7.174 name=scontent-sin6-1.cdninstagram.com
-add address=157.240.13.172 name=scontent-sin6-2.cdninstagram.com
-# Instagram End
-
-# issuu Start
-add address=52.72.26.162 name=issuu.com
-add address=52.72.26.162 name=www.issuu.com
-add address=52.72.26.162 name=developers.issuu.com
-add address=52.72.26.162 name=page.issuu.com
-add address=66.6.32.22 name=blog.issuu.com
-add address=35.241.35.151 name=pingback.issuu.com
-add address=151.101.65.63 name=photo.issuu.com
-add address=151.101.65.63 name=image.issuu.com
-add address=151.101.65.63 name=content.issuu.com
-add address=151.101.65.63 name=e.issuu.com
-add address=151.101.65.63 name=static.issuu.com
-add address=151.101.65.63 name=skin.issuu.com
-add address=52.1.172.141 name=api.issuu.com
-add address=104.16.53.111 name=help.issuu.com
-# issuu End
 
 # Kakao Start
 add address=115.127.250.75 name=search1.kakaocdn.net
@@ -3995,9 +3558,7 @@ add address=203.216.212.234 name=www.kinokuniya.co.jp
 # Kinokuniya End
 
 # Kobo Start
-add address=84.39.136.9 name=magazines-adf.kobo.com
 add address=157.55.176.209 name=social.kobobooks.com
-add address=191.236.35.232 name=storedownloads.kobo.com
 add address=191.238.229.33 name=discovery.kobobooks.com
 add address=204.87.189.12 name=images.kobobooks.com
 add address=204.87.189.201 name=ftp.kobobooks.com
@@ -4005,7 +3566,6 @@ add address=204.87.189.51 name=kobobooks.com
 add address=204.87.189.51 name=prod-www.kobobooks.com
 add address=204.87.189.71 name=ecimagest.kobobooks.com
 add address=204.87.189.87 name=prod-store.kobobooks.com
-add address=204.87.189.92 name=kobo.com
 add address=13.92.121.97 name=kobomaintenance.kobobooks.com
 add address=23.227.38.64 name=au.kobobooks.com
 add address=23.227.38.64 name=ca-fr.kobobooks.com
@@ -4041,28 +3601,11 @@ add address=23.46.136.67 name=webstore.kobobooks.com
 add address=23.46.136.67 name=webstore2.kobobooks.com
 add address=23.46.136.67 name=writinglife.kobobooks.com
 add address=23.46.136.67 name=www.kobobooks.com
-add address=23.34.51.249 name=assets.kobo.com
-add address=23.34.51.249 name=de.kobo.com
-add address=23.34.51.249 name=es.kobo.com
-add address=23.34.51.249 name=fr.kobo.com
-add address=23.34.51.249 name=it.kobo.com
-add address=23.34.51.249 name=ja.kobo.com
-add address=23.34.51.249 name=nl.kobo.com
-add address=23.34.51.249 name=pt.kobo.com
-add address=23.34.51.249 name=ptbr.kobo.com
-add address=23.34.51.249 name=read.kobo.com
-add address=23.34.51.249 name=rum.kobo.com
-add address=23.34.51.249 name=stage.kobo.com
-add address=23.34.51.249 name=storeapi.kobo.com
-add address=23.34.51.249 name=tw.kobo.com
-add address=23.66.137.9 name=www.kobo.com
-add address=40.114.86.114 name=sorry.kobo.com
 add address=75.98.196.99 name=media.kobobooks.com
 add address=184.51.198.112 name=contentdownloads.kobobooks.com
 add address=184.51.198.112 name=get.kobobooks.com
 add address=184.51.198.112 name=ecimages.kobobooks.com
 add address=184.51.198.112 name=ecmimages.kobobooks.com
-add address=89.187.65.68 name=insiders.kobo.com
 # Kobo End
 
 # Logmein Start
@@ -4173,17 +3716,7 @@ add address=54.192.151.121 name=matters.news
 add address=54.254.167.73 name=server.matters.news
 # Matters.news End
 
-# Medium Start
-add address=104.16.120.127 name=medium.com
-add address=104.16.120.145 name=api.medium.com
-add address=104.16.120.145 name=cdn-static-1.medium.com
-add address=104.16.120.145 name=cdn-images-1.medium.com
-add address=104.16.120.145 name=cdn-images-2.medium.com
-add address=104.16.121.145 name=glyph.medium.com
-# Medium End
-
 # MEGA Start
-add address=31.216.148.10 name=mega.nz
 add address=117.18.237.188 name=g.cdn1.mega.co.nz
 # MEGA End
 
@@ -4374,30 +3907,6 @@ add address=99.84.143.51 name=res3.pubu.tw
 add address=99.84.59.53 name=res4.pubu.tw
 # Pubu End
 
-# Quora Start
-add address=104.16.52.111 name=help.quora.com
-add address=151.101.73.2 name=blog.quora.com
-add address=151.101.73.2 name=bn.quora.com
-add address=151.101.73.2 name=da.quora.com
-add address=151.101.73.2 name=de.quora.com
-add address=151.101.73.2 name=en-us.quora.com
-add address=151.101.73.2 name=es.quora.com
-add address=151.101.73.2 name=fi.quora.com
-add address=151.101.73.2 name=fr.quora.com
-add address=151.101.73.2 name=hi.quora.com
-add address=151.101.73.2 name=id.quora.com
-add address=151.101.73.2 name=it.quora.com
-add address=151.101.73.2 name=jp.quora.com
-add address=151.101.73.2 name=mn.quora.com
-add address=151.101.73.2 name=nl.quora.com
-add address=151.101.73.2 name=no.quora.com
-add address=151.101.73.2 name=pt.quora.com
-add address=151.101.73.2 name=qsf.fs.quoracdn.net
-add address=151.101.73.2 name=sv.quora.com
-add address=151.101.73.2 name=ta.quora.com
-add address=192.229.189.142 name=www.quora.com
-# Quora End
-
 # Rakuten Start
 add address=133.237.50.6 name=rd.rakuten.co.jp
 add address=133.237.61.71 name=esearch.rakuten.co.jp
@@ -4453,10 +3962,6 @@ add address=54.82.227.39 name=new-bench.resilio.com
 add address=13.107.246.10 name=rixcloud.com
 add address=151.101.1.195 name=rixcloud.us
 # rixCloud End
-
-# SCMP Start
-add address=104.16.215.232 name=www.scmp.com
-# SCMP End
 
 # Shadowsocks Start
 add address=104.28.18.85 name=shadowsocks.org
@@ -4521,10 +4026,6 @@ add address=104.27.131.29 name=supchina.com
 add address=23.10.10.243 name=www.swissinfo.ch
 # SWI End
 
-# The Economist Start
-add address=199.83.128.108 name=www.economist.com
-# The Economist End
-
 # Theinitium Start
 add address=52.76.148.61 name=stigma.theinitium.com
 add address=52.221.46.214 name=theinitium.com
@@ -4534,10 +4035,6 @@ add address=52.221.46.214 name=api.theinitium.com
 # The Nation Start
 add address=192.229.179.32 name=www.thenation.com
 # The Nation End
-
-# TheTVDB Start
-add address=104.16.230.14 name=www.thetvdb.com
-# TheTVDB End
 
 # TopickHK Start
 add address=118.143.30.216 name=topick.hket.com
@@ -4714,10 +4211,6 @@ add address=192.229.232.217 name=video.twimg.com
 # Uncyclopedia Start
 add address=104.28.18.4 name=uncyclopedia.tw
 # Uncyclopedia End
-
-# Up Media Start
-add address=192.124.249.65 name=www.upmedia.mg
-# Up Media End
 
 # urbandictionary Start
 add address=151.101.120.207 name=www.urbandictionary.com

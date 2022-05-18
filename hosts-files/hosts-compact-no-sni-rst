@@ -20,84 +20,25 @@
 23.32.241.9	a248.e.akamai.net
 52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
-52.119.164.121	amazon.co.jp
-23.13.186.208	www.amazon.co.jp
-54.239.96.187	aftlite-portal-nrt.amazon.co.jp
-52.94.210.248	alexa.amazon.co.jp
-54.240.251.149	api.amazon.co.jp
-52.119.168.241	arap.amazon.co.jp
-54.240.248.126	www.artistcentral.amazon.co.jp
-54.240.250.160	astore.amazon.co.jp
-52.94.211.66	brandregistry.amazon.co.jp
-54.240.248.142	catalog-sc.amazon.co.jp
-54.240.248.108	cde-ta-g7g-sha-proxy.amazon.co.jp
-52.94.210.103	completion.amazon.co.jp
-205.251.235.239	copilot.amazon.co.jp
-54.240.248.163	dropship.amazon.co.jp
-54.240.254.58	cs-ext.amazon.co.jp
-54.240.252.151	endeavour.amazon.co.jp
-35.166.79.161	fls-fe.amazon.co.jp
-54.240.250.189	kdp.amazon.co.jp
-176.32.100.154	kindle-images.amazon.co.jp
-54.240.250.180	kindlepreviewservice.amazon.co.jp
-54.240.250.59	kuato.amazon.co.jp
-54.240.254.122	logistics.amazon.co.jp
-54.240.248.64	mt.amazon.co.jp
-54.240.251.157	music.amazon.co.jp
-52.94.212.221	music-xray-service.amazon.co.jp
-52.119.164.28	widgets.amazon.co.jp
-54.240.250.177	opf-sellercentral.amazon.co.jp
-54.240.251.156	payments.amazon.co.jp
-54.240.250.198	prime.amazon.co.jp
-54.240.248.131	read.amazon.co.jp
-52.94.210.139	shm.amazon.co.jp
 172.217.30.157	a.android.com connectivitycheck.android.com d.android.com dev.android.com market.android.com r.android.com
 172.217.8.250	android.com
 172.217.30.153	www.android.com
 172.217.8.252	source.android.com
 172.217.8.249	developer.android.com
 104.20.82.194	apkpure.com m.apkpure.com
-104.19.133.58	www.apkmirror.com
 172.217.168.209	www.appspot.com appspot.com events.withgoogle.com summerofcode.withgoogle.com foobar.withgoogle.com interstellar.withgoogle.com edudirectory.withgoogle.com atmosphere.withgoogle.com accelerate.withgoogle.com insgruene.withgoogle.com atmospheretokyo.withgoogle.com connectedclassrooms.withgoogle.com smartypins.withgoogle.com streetart.withgoogle.com cardboard.withgoogle.com kickwithchrome.withgoogle.com candidatos.withgoogle.com trendstw.withgoogle.com impactchallenge.withgoogle.com eduproducts.withgoogle.com onetoday.google.com withgoogle.com www.withgoogle.com cloudnext.withgoogle.com edutrainingcenter.withgoogle.com earthview.withgoogle.com lightsaber.withgoogle.com britishmuseum.withgoogle.com beyondthemap.withgoogle.com analyticsacademy.withgoogle.com spellup.withgoogle.com
 172.217.194.153	chrome-infra-packages.appspot.com
 172.217.161.180	author-dot-betaspike.appspot.com jmoore-dot-android-experiments.appspot.com mission-author-dot-betaspike.appspot.com drivenotepad.appspot.com virustotalcloud.appspot.com joinjoaomgcd.appspot.com m-dot-betaspike.appspot.com download-chromium.appspot.com google-developers.appspot.com chrometophone.appspot.com chrome-devtools-frontend.appspot.com apis-explorer.appspot.com betaspike.appspot.com hstspreload.appspot.com lfe-alpo-gm.appspot.com
 172.217.8.244	netlog-viewer.appspot.com
 172.217.14.116	go-tour-zh.appspot.com
 207.241.224.4	archive.org www.archive.org
-207.241.225.95	analytics.archive.org
-207.241.233.214	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
 207.241.224.6	mail.archive.org
-207.241.225.247	books-general.archive.org
 212.95.74.30	api.arte.tv
 212.95.74.37	www.arte.tv
 23.50.102.235	static-cdn.arte.tv
 27.133.136.8	app.arukas.io
 52.59.33.68	search.avira.com
 104.20.7.63	bandwagonhost.com
-151.101.8.81	www.bbc.com
-212.58.244.115	fig.bbc.co.uk
-212.58.244.69	www.bbc.co.uk
-23.59.2.139	static.bbci.co.uk
-23.199.11.116	static.bbc.co.uk
-104.76.83.32	nav.files.bbci.co.uk
-23.42.122.193	ichef.bbci.co.uk
-23.73.186.251	m.files.bbci.co.uk
-125.56.212.236	feeds.bbci.co.uk
-23.13.157.61	mybbc.files.bbci.co.uk
-23.66.206.133	polling.bbc.co.uk
-104.72.213.225	search.files.bbci.co.uk
-184.27.16.168	a.files.bbci.co.uk
-95.101.15.42	gel.files.bbci.co.uk
-104.103.150.125	emp.bbc.com
-23.53.213.148	news.bbcimg.co.uk
-23.201.173.230	mybbc-analytics.files.bbci.co.uk
-212.58.244.114	ssl.bbc.co.uk
-13.33.213.226	push.api.bbci.co.uk
-52.31.189.25	search-suggest.api.bbci.co.uk
-34.245.252.9	ess.api.bbci.co.uk
-212.58.249.134	session.bbc.com
-212.58.244.92	account.bbc.com
-212.58.244.78	open.live.bbc.co.uk
 151.101.193.197	www.behance.net
 216.146.46.10	behance.com
 52.85.231.84	mir-s3-cdn-cf.behance.net
@@ -107,22 +48,11 @@
 61.222.241.168	biggo.com.tw
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
-151.101.1.171	static2.businessinsider.com static5.businessinsider.com
-151.101.193.171	www.businessinsider.com
-151.101.229.171	amp.businessinsider.com geoip.businessinsider.com static6.businessinsider.com
-151.101.73.171	static1.businessinsider.com static3.businessinsider.com static4.businessinsider.com
-151.101.88.64	analytics.businessinsider.com
-151.101.2.114	img.buzzfeed.com
 110.232.178.118	c6.cduniverse.ws c7.cduniverse.ws c8.cduniverse.ws c9.cduniverse.ws www.cduniverse.com
 72.248.115.70	cduniverse.ws
-104.16.5.13	www.change.org assets.change.org
-104.16.4.13	change.org assets-fe.change.org
 13.33.25.77	d3njjcbhbojbot.cloudfront.net
 99.84.138.226	d3c33hcgiwev3.cloudfront.net
 13.33.231.37	api.clyp.it audio.clyp.it clyp.it soundwave.clyp.it static.clyp.it
-210.242.210.65	img5.cna.com.tw
-211.72.255.204	www.cna.com.tw
-72.21.81.200	img4.cna.com.tw
 216.58.200.238	embed.culturalspot.org globetoglobehamlet.culturalspot.org
 157.7.225.122	cp.conoha.jp
 150.95.236.28	www.conoha.jp
@@ -221,39 +151,6 @@
 99.84.254.32	t00.deviantart.net
 13.33.47.221	film00.deviantart.net
 104.25.27.31	bbs.dmhy.org dl.dmhy.org dmhy.org share.dmhy.org u2.dmhy.org www.dmhy.org
-162.125.248.2	db.tt
-162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com
-162.125.5.7	api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
-162.125.33.7	api-d.dropbox.com
-162.125.34.7	api.v.dropbox.com api-notify.dropbox.com
-99.84.239.58	aem.dropbox.com
-162.125.82.8	api-content.dropbox.com
-162.125.82.5	api-content-photos.dropbox.com
-13.35.8.95	blogs.dropbox.com
-162.125.17.132	block.dropbox.com
-162.125.17.5	block.v.dropbox.com
-162.125.18.133	bolt.dropbox.com
-162.125.65.3	client.dropbox.com client-cf.dropbox.com
-162.125.32.137	client.v.dropbox.com
-162.125.80.3	client-lb.dropbox.com client-web.dropbox.com
-162.125.32.135	d.dropbox.com d.v.dropbox.com
-162.125.83.6	dl.dropbox.com dl-web.dropbox.com dl-doc.dropbox.com
-54.236.121.227	dl-debug.dropbox.com
-13.35.8.71	forums.dropbox.com
-13.35.99.72	linux.dropbox.com
-162.125.80.2	m.dropbox.com
-54.230.173.117	marketing.dropbox.com
-162.125.66.5	photos.dropbox.com
-162.125.83.5	photos-1.dropbox.com photos-2.dropbox.com photos-3.dropbox.com photos-4.dropbox.com photos-5.dropbox.com photos-6.dropbox.com photos-thumb.dropbox.com
-162.125.18.129	photos-thumb.x.dropbox.com
-54.153.81.237	paper.dropbox.com
-54.230.173.90	status.dropbox.com
-54.230.173.29	snapengage.dropbox.com
-162.125.7.6	dl.dropboxusercontent.com
-162.125.33.9	www.dropboxstatic.com dbxlocal.dropboxstatic.com
-104.16.100.29	cfl.dropboxstatic.com
-54.230.175.68	cf.dropboxstatic.com
-162.125.82.2	log.getdropbox.com
 13.210.167.213	duckduckgo.com www.duckduckgo.com ac.duckduckgo.com start.duckduckgo.com help.duckduckgo.com
 23.21.193.169	icons.duckduckgo.com proxy.duckduckgo.com images.duckduckgo.com improving.duckduckgo.com external-content.duckduckgo.com
 151.101.0.134	disqus.com
@@ -278,14 +175,6 @@
 104.20.171.49	www.discuss.com.hk m.discuss.com.hk cdn.discuss.com.hk
 104.20.170.49	tr.discuss.com.hk ladies.discuss.com.hk news.discuss.com.hk finance.discuss.com.hk mobile.discuss.com.hk img.discuss.com.hk digital.discuss.com.hk computer.discuss.com.hk
 207.38.70.29	www.dynu.com
-8.252.15.252	static.euronews.com
-157.240.7.35	www.facebook.com fb.me facebook.com api.facebook.com apps.facebook.com attachments.facebook.com business.facebook.com bigzipfiles.facebook.com code.facebook.com check4.facebook.com check6.facebook.com connect.facebook.com d.facebook.com developers.facebook.com graph.facebook.com l.facebook.com login.facebook.com m.facebook.com mtouch.facebook.com mqtt.facebook.com mqtt-mini.facebook.com orcart.facebook.com pixel.facebook.com scontent.facebook.com ssl.facebook.com star.facebook.com secure.facebook.com staticxx.facebook.com touch.facebook.com upload.facebook.com vupload.facebook.com vupload2.facebook.com api-read.facebook.com b-api.facebook.com b-graph.facebook.com s-static.facebook.com zh-cn.facebook.com zh-tw.facebook.com edge-chat.facebook.com 0-edge-chat.facebook.com 1-edge-chat.facebook.com 2-edge-chat.facebook.com 3-edge-chat.facebook.com 4-edge-chat.facebook.com 5-edge-chat.facebook.com 6-edge-chat.facebook.com channel-ecmp-05-ash3.facebook.com channel-staging-ecmp-05-ash3.facebook.com channel-testing-ecmp-05-ash3.facebook.com beta-chat-01-05-ash3.facebook.com s-static.ak.facebook.com star.c10r.facebook.com fbcdn.net connect.facebook.net ent-a.xx.fbcdn.net ent-b.xx.fbcdn.net ent-c.xx.fbcdn.net ent-d.xx.fbcdn.net ent-e.xx.fbcdn.net scontent.xx.fbcdn.net scontent-a.xx.fbcdn.net scontent-b.xx.fbcdn.net scontent-c.xx.fbcdn.net scontent-d.xx.fbcdn.net scontent-e.xx.fbcdn.net scontent-mxp.xx.fbcdn.net scontent-a-lax.xx.fbcdn.net scontent-a-sin.xx.fbcdn.net scontent-b-lax.xx.fbcdn.net scontent-b-sin.xx.fbcdn.net static.thefacebook.com attachment.fbsbx.com messenger.com www.messenger.com 0-edge-chat.messenger.com 1-edge-chat.messenger.com 2-edge-chat.messenger.com 3-edge-chat.messenger.com 4-edge-chat.messenger.com 5-edge-chat.messenger.com 6-edge-chat.messenger.com
-31.13.95.33	snaptu-z.facebook.com snaptu-p1.facebook.com snaptu-p2.facebook.com
-31.13.95.5	edge-mqtt.facebook.com
-192.0.78.13	instantarticles.fb.com live.fb.com managingbias.fb.com nonprofits.fb.com rightsmanager.fb.com techprep.fb.com work.fb.com
-31.13.91.15	static.xx.fbcdn.net scontent-lax3-1.xx.fbcdn.net scontent-lax3-2.xx.fbcdn.net scontent-lax3-3.xx.fbcdn.net scontent-lax3-4.xx.fbcdn.net scontent-hkg3-1.xx.fbcdn.net scontent-hkg3-2.xx.fbcdn.net scontent-hkg3-3.xx.fbcdn.net z-1-scontent.xx.fbcdn.net video-lax3-1.xx.fbcdn.net video-lax3-2.xx.fbcdn.net video-lax3-3.xx.fbcdn.net video-lax3-4.xx.fbcdn.net video-mrs1-1.xx.fbcdn.net video-mrs1-2.xx.fbcdn.net video-mrs1-3.xx.fbcdn.net video-mrs1-4.xx.fbcdn.net video-hkg3-1.xx.fbcdn.net video-sit4-1.xx.fbcdn.net external.xx.fbcdn.net
-192.0.66.2	messengerplatform.fb.com threatexchange.fb.com
-157.240.11.18	video.xx.fbcdn.net
 151.101.1.194	codeproject.global.ssl.fastly.net github.global.ssl.fastly.net
 151.101.110.79	freetls.fastly.net
 151.101.230.79	aosc-repo.freetls.fastly.net bt-wpstatic.freetls.fastly.net chairish-prod.freetls.fastly.net codeproject.freetls.fastly.net finanzen.freetls.fastly.net github-atom-io-herokuapp-com.freetls.fastly.net gl-canary.freetls.fastly.net grokker-static.freetls.fastly.net images-production.freetls.fastly.net img-mdpr.freetls.fastly.net lakvod-508179.freetls.fastly.net oldies-cdn.freetls.fastly.net prehistory101.freetls.fastly.net tampermonkey.freetls.fastly.net villagevoice.freetls.fastly.net zcdn.freetls.fastly.net herokudata-frontend.freetls.fastly.net
@@ -399,98 +288,29 @@
 203.82.9.18	bet.hkjc.com
 101.78.207.157	common.hkjc.com
 203.86.162.153	search.hkjc.com
-101.78.207.158	football.hkjc.com i.stack.imgur.com
-151.101.40.193	imgur.com m.imgur.com api.imgur.com www.imgur.com store.imgur.com s.imgur.com p.imgur.com i.imgur.com
+101.78.207.158	football.hkjc.com
 52.9.109.157	appload.ingest.crittercism.com
 54.241.32.12	api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
 169.44.145.204	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
-31.13.82.172	instagram.com
-31.13.82.174	www.instagram.com scontent-a-nrt.cdninstagram.com scontent-b-nrt.cdninstagram.com scontent-nrt1-1.cdninstagram.com
-157.240.15.174	badges.instagram.com graph.instagram.com scontent-a.cdninstagram.com scontent-b.cdninstagram.com
-157.240.15.63	logger.instagram.com maps.instagram.com
-52.45.94.103	i.instagram.com api.instagram.com
-31.13.76.172	help.instagram.com platform.instagram.com
-66.6.32.22	blog.instagram.com blog.issuu.com times.pixiv.net
-23.55.56.140	images.ak.instagram.com
-23.32.241.16	static.ak.instagram.com
-31.13.87.52	scontent.cdninstagram.com scontent-a-tpe.cdninstagram.com scontent-b-tpe.cdninstagram.com scontent-tpe1-1.cdninstagram.com
-31.13.91.52	scontent-a-ams.cdninstagram.com scontent-b-ams.cdninstagram.com scontent-ams3-1.cdninstagram.com
-31.13.91.172	scontent-a-amt.cdninstagram.com scontent-b-amt.cdninstagram.com scontent-amt2-1.cdninstagram.com
-31.13.72.172	scontent-a-arn.cdninstagram.com scontent-b-arn.cdninstagram.com scontent-arn2-1.cdninstagram.com
-31.13.65.172	scontent-a-atl.cdninstagram.com scontent-b-atl.cdninstagram.com scontent-atl3-1.cdninstagram.com
-157.240.6.52	scontent-a-bog.cdninstagram.com scontent-b-bog.cdninstagram.com scontent-bog1-1.cdninstagram.com
-179.60.195.172	scontent-a-bru.cdninstagram.com scontent-b-bru.cdninstagram.com scontent-bru2-1.cdninstagram.com
-179.60.192.52	scontent-a-cdg.cdninstagram.com scontent-b-cdg.cdninstagram.com scontent-cdg2-1.cdninstagram.com
-31.13.94.51	scontent-a-eze.cdninstagram.com scontent-b-eze.cdninstagram.com scontent-eze1-1.cdninstagram.com
-31.13.92.51	scontent-a-frt.cdninstagram.com scontent-b-frt.cdninstagram.com scontent-frt3-1.cdninstagram.com
-185.60.216.174	scontent-a-frx.cdninstagram.com scontent-b-frx.cdninstagram.com scontent-frx5-1.cdninstagram.com
-157.240.12.52	scontent-a-gru.cdninstagram.com scontent-b-gru.cdninstagram.com
-31.13.95.172	scontent-a-hkg.cdninstagram.com scontent-b-hkg.cdninstagram.com
-31.13.69.172	scontent-a-iad.cdninstagram.com scontent-b-iad.cdninstagram.com scontent-iad.cdninstagram.com scontent-iad3-1.cdninstagram.com
-31.13.68.174	scontent-a-icn.cdninstagram.com scontent-b-icn.cdninstagram.com scontent-icn1-1.cdninstagram.com
-157.240.10.52	scontent-a-kut.cdninstagram.com scontent-b-kut.cdninstagram.com
-31.13.70.172	scontent-a-lax.cdninstagram.com scontent-b-lax.cdninstagram.com scontent-lax.cdninstagram.com
-31.13.71.174	scontent-a-lga.cdninstagram.com scontent-b-lga.cdninstagram.com scontent-lga.cdninstagram.com scontent-lga3-1.cdninstagram.com
-31.13.90.174	scontent-a-lhr.cdninstagram.com scontent-b-lhr.cdninstagram.com scontent-lhr3-1.cdninstagram.com
-157.240.1.172	scontent-a-lht.cdninstagram.com scontent-b-lht.cdninstagram.com scontent-lht6-1.cdninstagram.com
-31.13.83.52	scontent-a-mad.cdninstagram.com scontent-b-mad.cdninstagram.com scontent-mad1-1.cdninstagram.com
-31.13.75.174	scontent-a-mrs.cdninstagram.com scontent-b-mrs.cdninstagram.com scontent-mrs1-1.cdninstagram.com
-31.13.86.52	scontent-a-mxp.cdninstagram.com scontent-b-mxp.cdninstagram.com scontent-mxp1-1.cdninstagram.com
-157.240.18.63	scontent-a-ort.cdninstagram.com scontent-b-ort.cdninstagram.com
-185.60.218.52	scontent-a-otp.cdninstagram.com scontent-b-otp.cdninstagram.com scontent-otp1-1.cdninstagram.com
-179.60.193.63	scontent-a-scl.cdninstagram.com scontent-b-scl.cdninstagram.com scontent-scl1-1.cdninstagram.com
-31.13.76.174	scontent-a-sea.cdninstagram.com scontent-b-sea.cdninstagram.com scontent-sea1-1.cdninstagram.com
-157.240.7.172	scontent-a-sin.cdninstagram.com scontent-b-sin.cdninstagram.com
-31.13.78.172	scontent-a-sit.cdninstagram.com scontent-b-sit.cdninstagram.com scontent-sit4-1.cdninstagram.com
-157.240.22.63	scontent-a-sjc.cdninstagram.com scontent-b-sjc.cdninstagram.com scontent-sjc3-1.cdninstagram.com
-157.240.9.52	scontent-a-sof.cdninstagram.com scontent-b-sof.cdninstagram.com scontent-sof1-1.cdninstagram.com
-157.240.8.174	scontent-a-syd.cdninstagram.com scontent-b-syd.cdninstagram.com scontent-syd2-1.cdninstagram.com
-31.13.84.52	scontent-a-vie.cdninstagram.com scontent-b-vie.cdninstagram.com scontent-vie1-1.cdninstagram.com
-31.13.81.52	scontent-a-waw.cdninstagram.com scontent-b-waw.cdninstagram.com scontent-waw1-1.cdninstagram.com
-31.13.80.52	scontent-a-yyz.cdninstagram.com scontent-b-yyz.cdninstagram.com scontent-yyz1-1.cdninstagram.com
-31.13.85.172	scontent-gru2-1.cdninstagram.com
-157.240.12.172	scontent-gru2-2.cdninstagram.com
-31.13.95.174	scontent-hkg3-1.cdninstagram.com
-157.240.15.172	scontent-hkg3-2.cdninstagram.com
-157.240.10.172	scontent-kut2-1.cdninstagram.com
-179.60.194.63	scontent-kut2-2.cdninstagram.com
-31.13.70.174	scontent-lax3-1.cdninstagram.com
-157.240.11.174	scontent-lax3-2.cdninstagram.com
-157.240.2.172	scontent-ort2-1.cdninstagram.com
-157.240.18.172	scontent-ort2-2.cdninstagram.com
-157.240.7.174	scontent-sin6-1.cdninstagram.com
-157.240.13.172	scontent-sin6-2.cdninstagram.com
-52.72.26.162	issuu.com www.issuu.com developers.issuu.com page.issuu.com
-35.241.35.151	pingback.issuu.com
-151.101.65.63	photo.issuu.com image.issuu.com content.issuu.com e.issuu.com static.issuu.com skin.issuu.com
-52.1.172.141	api.issuu.com
-104.16.53.111	help.issuu.com
 115.127.250.75	search1.kakaocdn.net search2.kakaocdn.net search3.kakaocdn.net search4.kakaocdn.net t1.kakaocdn.net
 104.20.171.40	www.kik.com
 124.146.171.177	faq.kinokuniya.co.jp
 124.36.142.42	mirai.kinokuniya.co.jp
 176.32.73.17	malaysia.kinokuniya.com singapore.kinokuniya.com thailand.kinokuniya.com uae.kinokuniya.com
 203.216.212.234	www.kinokuniya.co.jp
-84.39.136.9	magazines-adf.kobo.com
 157.55.176.209	social.kobobooks.com
-191.236.35.232	storedownloads.kobo.com
 191.238.229.33	discovery.kobobooks.com
 204.87.189.12	images.kobobooks.com
 204.87.189.201	ftp.kobobooks.com
 204.87.189.51	kobobooks.com prod-www.kobobooks.com
 204.87.189.71	ecimagest.kobobooks.com
 204.87.189.87	prod-store.kobobooks.com
-204.87.189.92	kobo.com
 13.92.121.97	kobomaintenance.kobobooks.com
 23.227.38.64	au.kobobooks.com ca-fr.kobobooks.com ca.kobobooks.com corporate.kobobooks.com de.kobobooks.com es.kobobooks.com fr.kobobooks.com gl.kobobooks.com it.kobobooks.com nz.kobobooks.com pt.kobobooks.com uk.kobobooks.com us.kobobooks.com
 23.46.136.67	akimages.kobobooks.com api.kobobooks.com esmx.kobobooks.com esmxsecure.kobobooks.com merch.kobobooks.com mobile.kobobooks.com mobilepartner.kobobooks.com mobilestage.kobobooks.com partner.kobobooks.com ptbr.kobobooks.com ptbrsecure.kobobooks.com ratingsapi.kobobooks.com read.kobobooks.com secure.kobobooks.com services.kobobooks.com store.kobobooks.com tr.kobobooks.com webstore.kobobooks.com webstore2.kobobooks.com writinglife.kobobooks.com www.kobobooks.com
-23.34.51.249	assets.kobo.com de.kobo.com es.kobo.com fr.kobo.com it.kobo.com ja.kobo.com nl.kobo.com pt.kobo.com ptbr.kobo.com read.kobo.com rum.kobo.com stage.kobo.com storeapi.kobo.com tw.kobo.com
-23.66.137.9	www.kobo.com
-40.114.86.114	sorry.kobo.com
 75.98.196.99	media.kobobooks.com
 184.51.198.112	contentdownloads.kobobooks.com get.kobobooks.com ecimages.kobobooks.com ecmimages.kobobooks.com
-89.187.65.68	insiders.kobo.com
 64.95.128.149	secure.logmein.com
 104.102.162.148	stickershop.line-scdn.net
 104.111.208.121	shop.line-scdn.net
@@ -570,10 +390,6 @@
 13.32.52.37	assets.matters.news
 54.192.151.121	matters.news
 54.254.167.73	server.matters.news
-104.16.120.127	medium.com
-104.16.120.145	api.medium.com cdn-static-1.medium.com cdn-images-1.medium.com cdn-images-2.medium.com
-104.16.121.145	glyph.medium.com
-31.216.148.10	mega.nz
 117.18.237.188	g.cdn1.mega.co.nz
 34.225.58.16	messaging-sub.api.nytimes.com
 23.21.73.215	nytab.nytimes.com
@@ -636,6 +452,7 @@
 210.140.131.215	sensei.pixiv.net
 210.140.131.216	novel.pixiv.net
 210.140.131.217	ssl.pixiv.net
+66.6.32.22	times.pixiv.net
 210.140.131.218	recruit.pixiv.net
 210.140.131.219	pixiv.net
 122.208.114.218	p2.pixiv.net blog.pixiv.net
@@ -667,9 +484,6 @@
 99.84.143.46	static.pubu.tw
 99.84.143.51	res3.pubu.tw
 99.84.59.53	res4.pubu.tw
-104.16.52.111	help.quora.com
-151.101.73.2	blog.quora.com bn.quora.com da.quora.com de.quora.com en-us.quora.com es.quora.com fi.quora.com fr.quora.com hi.quora.com id.quora.com it.quora.com jp.quora.com mn.quora.com nl.quora.com no.quora.com pt.quora.com qsf.fs.quoracdn.net sv.quora.com ta.quora.com
-192.229.189.142	www.quora.com
 133.237.50.6	rd.rakuten.co.jp
 133.237.61.71	esearch.rakuten.co.jp
 23.40.72.233	www.rakuten.co.jp
@@ -709,7 +523,6 @@
 54.82.227.39	new-bench.resilio.com
 13.107.246.10	rixcloud.com
 151.101.1.195	rixcloud.us
-104.16.215.232	www.scmp.com
 104.28.18.85	shadowsocks.org
 144.2.3.20	www.slideshare.net de.slideshare.net es.slideshare.net fr.slideshare.net pt.slideshare.net
 108.174.10.14	engineering.slideshare.net blog.slideshare.net
@@ -732,11 +545,9 @@
 23.42.45.238	steamcommunity.com
 104.27.131.29	supchina.com
 23.10.10.243	www.swissinfo.ch
-199.83.128.108	www.economist.com
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com api.theinitium.com
 192.229.179.32	www.thenation.com
-104.16.230.14	www.thetvdb.com
 118.143.30.216	topick.hket.com
 118.143.30.165	inlog01.hket.com
 118.143.30.220	static01.hket.com
@@ -826,7 +637,6 @@
 117.18.237.70	abs.twimg.com pbs.twimg.com ton.twimg.com cdn.syndication.twimg.com
 192.229.232.217	video.twimg.com
 104.28.18.4	uncyclopedia.tw
-192.124.249.65	www.upmedia.mg
 151.101.120.207	www.urbandictionary.com
 151.101.240.207	api.urbandictionary.com
 151.101.0.217	vimeo.com
